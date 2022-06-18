@@ -9,10 +9,14 @@ git add .      : agregar a la caja
 git commit -m "etiqueta" : etiquetar caja
 git log --oneline : mostrar etiquetas de cajas
 
+adsfasdfasdf
+
+
 
 `
 
-
+// para el error por escribir git commit
+// :q!
 
 
 
